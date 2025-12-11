@@ -1,0 +1,6 @@
+12/11/2025
+Se agregó confirmación antes de eliminar audios generados
+Se corrigió el problema del diálogo de bienvenida
+Se mejoró la estabilidad general de la aplicación
+Corrección de errores menores en la interfaz
+https://github.com/Elimpaciente/Herramientas/raw/main/AI%20Assistant_v1.1.apk
