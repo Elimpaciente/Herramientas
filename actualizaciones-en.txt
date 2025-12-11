@@ -1,0 +1,6 @@
+12/11/2025
+Added confirmation before deleting generated audios
+Fixed welcome dialog issue
+Improved overall application stability
+Minor interface bug fixes
+https://github.com/Elimpaciente/Herramientas/raw/main/AI%20Assistant_v1.1.apk
